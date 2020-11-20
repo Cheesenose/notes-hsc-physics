@@ -22,6 +22,6 @@ The Nature of Light
     :maxdepth: 1
 
     electromagnetic-spectrum
-    light:-wave-model
-    light:-quantum-model
+    light-wave-model
+    light-quantum-model
     light-and-special-relativity
